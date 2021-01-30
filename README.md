@@ -1,4 +1,6 @@
 <!-- Odin Project #1
      1/29/2021
-     webDevProject
+     Editor: myWebDevProject
+     Project: Google Homepage
+     Version: Easy
   -->
